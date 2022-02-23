@@ -1,0 +1,27 @@
+{
+  "name": "mercado-pao-de-acucar",
+  "version": "1.0.0",
+  "description": "frontEnd:bootstrap framework e backEnd:express framework com banco de dados firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuri1709/mercado-pao-de-acucar.git"
+  },
+  "keywords": [
+    "site",
+    "dinamico"
+  ],
+  "author": "yuri1709",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuri1709/mercado-pao-de-acucar/issues"
+  },
+  "homepage": "https://github.com/yuri1709/mercado-pao-de-acucar#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.2"
+  }
+}
